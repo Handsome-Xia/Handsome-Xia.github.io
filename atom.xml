@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Handsome-Xia.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-05T05:56:23.316Z</updated>
+    <updated>2020-03-05T06:09:44.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Handsome-Xia.github.io"/>
     <link rel="self" href="https://Handsome-Xia.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>MRX</subtitle>
     <logo>https://Handsome-Xia.github.io/images/avatar.png</logo>
     <icon>https://Handsome-Xia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
